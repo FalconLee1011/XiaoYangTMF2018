@@ -1,14 +1,12 @@
 # Xiao Yang Ball throwing machine
 
-One Paragraph of project description goes here
-
 ## Requisites
 
-  Arduino IDE 1.8.5 +  
+* Arduino IDE 1.8.5 +
 
-  A device running Android 4.0 + (5.0 + is recommend)  
-  Kivy 1.10.0 + Download from : https://kivy.org/  
-  Kivy launcher installed on your Android device  
+*  A device running Android 4.0 + (5.0 + is recommend)
+*  Kivy 1.10.0 + Download from : https://kivy.org/
+*  Kivy launcher installed on your Android device
 
 ## Author
 
