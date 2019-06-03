@@ -18,9 +18,9 @@
 
 * Dannel Su - Main director of this project.
 * Dannel Chu - Mechanism.
-* [Falcon Lee aka 草](https://github.com/FalconLee1011) - Software design and engineering.
-* [Rex Wu](https://github.com/MadRex2000) - Main model design and 3D rendering.
-* Jay Wu - Sound effects, assembly.
+* [Falcon Lee aka 草](https://github.com/FalconLee1011) - Software/UI/UX design and engineering. Wireless development. Hardware design.
+* [Rex Wu](https://github.com/MadRex2000) - Main model design and 3D rendering. Software maintenance on latest versions.
+* Jay Wu - Sound effects. Circuit design and assembly.
 * Eva Yu
 * ys_ihy
 * Chi_huiya
