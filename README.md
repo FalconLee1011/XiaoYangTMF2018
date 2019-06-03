@@ -16,7 +16,7 @@
 
 ## Author and Contributions (To be added)
 
-* Dannel Su - Main director of this projector.
+* Dannel Su - Main director of this project.
 * [Falcon Lee aka 草](https://github.com/FalconLee1011) - Software design and engineering.
 * [Rex Wu](https://github.com/MadRex2000) - Main model design and 3D rendering.
 * Dannel Chu - Mechanism.
