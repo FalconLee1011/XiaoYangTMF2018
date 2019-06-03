@@ -21,10 +21,10 @@
 * [Rex Wu](https://github.com/MadRex2000) - Main model design and 3D rendering.
 * Dannel Chu - Mechanism.
 * Jay Wu - Sound effects, assembly.
-* Eva Yu - Assembly.
-* ys_ihy -
-* Chi_huiya -
-* Gary -
+* Eva Yu
+* ys_ihy
+* Chi_huiya
+* Gary
 
 
 ## License
