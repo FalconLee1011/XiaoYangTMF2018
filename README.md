@@ -1,5 +1,11 @@
 # Xiao Yang Ball throwing machine
 
+# \[DEPRECATED PROJECT\]
+```diff
+- This project is currently deprecated, and will no longer be updated by myself.
+- Even though, feel free to commit, fork or share this repo as you will follow the license
+```
+
 ## Requisites
 
 * Arduino IDE 1.8.5 +
@@ -11,7 +17,7 @@
 ## Author
 
 * [Falcon Lee](https://github.com/FalconLee1011)
-
+* [Rex Wu](https://github.com/MadRex2000)
 
 ## License
 
