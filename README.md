@@ -1,10 +1,9 @@
 # Xiao Yang Ball throwing machine
 
 # \[DEPRECATED PROJECT\]
-```diff
-- This project is currently deprecated, and will no longer be updated by myself.
-- Even though, feel free to commit, fork or share this repo as you will follow the license
-```
+
+This project is currently deprecated, and will no longer be updated by myself.
+Even though, feel free to commit, fork or share this repo as you will follow the license
 
 ## Requisites
 
