@@ -14,10 +14,10 @@
 *  Kivy 1.10.0 + Download from : https://kivy.org/
 *  Kivy launcher installed on your Android device
 
-## Author
+## Author (To be added)
 
-* [Falcon Lee](https://github.com/FalconLee1011)
-* [Rex Wu](https://github.com/MadRex2000)
+* [Falcon Lee](https://github.com/FalconLee1011) - Software design and engineering.
+* [Rex Wu](https://github.com/MadRex2000) - Main model design and 3D rendering.
 
 ## License
 
